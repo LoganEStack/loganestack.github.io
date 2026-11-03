@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.66f3fbc6.css",
-    "main.js": "./static/js/main.17b0d7a0.js",
+    "main.css": "./static/css/main.161cda6a.css",
+    "main.js": "./static/js/main.b03596f6.js",
     "static/js/592.6d7de513.chunk.js": "./static/js/592.6d7de513.chunk.js",
     "static/media/the_strand.png": "./static/media/the_strand.1749978d01096022e5c8.png",
     "static/media/hobbit_hole.png": "./static/media/hobbit_hole.5640358c8483599aabc8.png",
@@ -75,6 +75,7 @@
     "static/media/dog_tags_small.jpg": "./static/media/dog_tags_small.4eb66f7851e1beb338b8.jpg",
     "static/media/shortstack_wide.png": "./static/media/shortstack_wide.c118ae2a40bd32be77d2.png",
     "static/media/fireball_small.jpg": "./static/media/fireball_small.0f996281bf7211e2870b.jpg",
+    "static/media/web.svg": "./static/media/web.c839dea447c260cf488c.svg",
     "static/media/totoro.svg": "./static/media/totoro.76b3fcb0f992411ebcf6.svg",
     "index.html": "./index.html",
     "static/media/github.svg": "./static/media/github.c48bfb2a53c47ee345a50672e3d24e07.svg",
@@ -82,12 +83,12 @@
     "static/media/arrow.svg": "./static/media/arrow.e63dcbe63e9d75ab1e41f0a6760d88b4.svg",
     "static/media/linkedin.svg": "./static/media/linkedin.7aa36a7c0bd86e3a0bf5f14a7f79c3e5.svg",
     "static/media/mail.svg": "./static/media/mail.c06326222debe545efe2c1648d11486f.svg",
-    "main.66f3fbc6.css.map": "./static/css/main.66f3fbc6.css.map",
-    "main.17b0d7a0.js.map": "./static/js/main.17b0d7a0.js.map",
+    "main.161cda6a.css.map": "./static/css/main.161cda6a.css.map",
+    "main.b03596f6.js.map": "./static/js/main.b03596f6.js.map",
     "592.6d7de513.chunk.js.map": "./static/js/592.6d7de513.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66f3fbc6.css",
-    "static/js/main.17b0d7a0.js"
+    "static/css/main.161cda6a.css",
+    "static/js/main.b03596f6.js"
   ]
 }
